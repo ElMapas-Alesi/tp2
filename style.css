@@ -277,11 +277,10 @@ footer{
 }
 
 .main2{
-        background-color: #96ac60;
+        background-color: rgba(150,172,96,0.8);
         margin: 10%;
         font-size: 13px;
         font-family: Arial, Helvetica, sans-serif;
-        opacity: 0.9;
 }
 
 .header2{
@@ -291,4 +290,31 @@ footer{
 
 .nav2{
     background: linear-gradient(to right, #96ac60, white)
+}
+
+
+.body3{
+    background-image: url("../imagenes/fondo3.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    margin: 0; 
+}
+
+.main3{
+        background-color: rgba(171, 222, 250, 0.7);
+        margin: 10%;
+        font-size: 13px;
+        font-family: Arial, Helvetica, sans-serif;
+}
+
+.header3{
+    background: linear-gradient(to right, #409dc4, #8bd3f8);
+    color: #ebf637;
+}
+
+.nav3{
+    background: linear-gradient(to right, #c9e9fc, white)
 }
